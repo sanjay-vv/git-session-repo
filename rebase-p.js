@@ -1,0 +1,1 @@
+console.log("Rebase is like copy paset - or move your commit at the top ");
